@@ -1,0 +1,23 @@
+{
+  "name": "nft_marketplace_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HPrieto/nft_marketplace_api.git"
+  },
+  "author": "Heriberto Prieto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HPrieto/nft_marketplace_api/issues"
+  },
+  "homepage": "https://github.com/HPrieto/nft_marketplace_api#readme",
+  "dependencies": {
+    "opensea-js": "^1.1.11",
+    "web3": "^1.4.0"
+  }
+}
